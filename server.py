@@ -17,7 +17,7 @@ from MediaGroupHandler import AlbumMiddleware
 from functions import Functions
 
 # Объект бота
-bot = Bot(token="7615724794:AAHst5y-K5F5VGLAyjxwLIhih7pCvpJakaU")
+bot = Bot(token="BOT_API_TOKEN")
 # Диспетчер
 dp = Dispatcher()
 ANSWER = 0
